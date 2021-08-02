@@ -63,7 +63,9 @@ background-color: #5e068a;
 color: white;
 text-decoration: none;
 }
-
+.vr:hover{
+    background-color: #9e6ab9;
+}
 .container h3{
     color: #5e068a;
     font-weight: 580;
